@@ -9,8 +9,4 @@
 ### Member 7 - IT20159030 - Sachini Lekamge
 ### Member 8 - IT21128868 - Devinya Vidanage
 
-#### Brief Description of Project - 
-#### Technologies used - 
-
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
-
+#### This is a copy of my student repository, which I do no have access to share publically. I have included a screenshot of the commits inside the final report folder (I cannot show insight into individual contribution as even I do not have access to that information)
